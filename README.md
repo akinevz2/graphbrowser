@@ -12,7 +12,7 @@ These can be used to represent a hierarchy of web objects linking from page to p
 
 ## Dependencies
 
-To use this project, first clone [https://github.com/akinevz0/GraphBrowser](Graphbrowser):
+To use this project, first clone [https://github.com/akinevz2/GraphBrowser](Graphbrowser):
 
 ```bash
 mkdir graphbrowser && cd graphbrowser
