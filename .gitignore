@@ -1,3 +1,6 @@
+# Metals
+.metals/
+
 # Gradle
 .gradle/
 build/
